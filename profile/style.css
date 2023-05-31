@@ -1,0 +1,57 @@
+body{
+	text-align: center;
+	color: black;
+	border: 1px solid #FF869E;
+  font-family: 'Cormorant Garamond', serif;
+  font-family: 'Outfit', sans-serif;
+	font-size: 15px;
+	letter-spacing: 1px;
+	background-image: url(images/fond5.jpg);
+	margin: 0;
+}
+h1{
+	text-align: center;
+	margin: 10px;
+	color: #C88EA7;
+	padding: 20px 25px;
+
+}
+
+
+div	{
+	text-align: center;
+	margin:0 20%;
+	font: monospace;
+
+}
+img {
+	width: 200px;
+	height: 180px;
+	border-radius: 20px;
+	display: block;
+	margin: auto;
+}
+a {
+	align-content: center;
+	font-family: courrier  new, monospace;
+
+}
+.container{
+	border: 1px solid #F8EDE3;
+	margin: 35px 22%;
+	background-color: #F8EDE3;
+	text-align: center;
+  border-radius: 50px;
+
+}
+#app{
+
+}
+
+.list-inline {
+	display: inline-block;
+}
+
+.fa-brands_fa-linkedin {
+
+}
